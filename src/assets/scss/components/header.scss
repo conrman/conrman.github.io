@@ -1,6 +1,4 @@
 .resume-header {
-  background: $black;
-  color: $white;
   margin-bottom: $global-padding;
   padding: $global-padding;
 }
@@ -13,15 +11,14 @@
     @include flex-grid-row;
     @include flex-align(center, middle);
   }
-  .main-section {
 
+  .main-section {
     h1,
     h2 {
       line-height: 1;
     }
-
     @include breakpoint(small down) {
       text-align: center;
     }
-    }
   }
+}

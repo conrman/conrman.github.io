@@ -1,0 +1,19 @@
+@media print {
+  body {
+    font-size: 12px;
+  }
+
+
+  /* Don't show the url on print */
+  a.hide-url-for-print {
+    text-decoration: none;
+    &:after {
+      content: '';
+    }
+  }
+
+  .resume-header {
+    margin: 0;
+    padding: 0;
+  }
+}

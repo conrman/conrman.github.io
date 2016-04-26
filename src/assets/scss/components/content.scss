@@ -1,8 +1,5 @@
 .resume-content {
-  margin-bottom: 100px;
-  @media print {
-    margin-bottom: 0;
-  }
+  margin-bottom: $global-padding*5;
 }
 
 

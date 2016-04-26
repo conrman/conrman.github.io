@@ -57,7 +57,7 @@
       "website": "http://mixedmediacreations.com",
       "startDate": "April 1, 2014",
       "endDate": "April 15, 2015",
-      "summary": "Working with a team of developers, designers, and account managers to build custom websites for multi-family real estate apartment properties all over the world. My job included collaborating with designers to create responsive, mobile friendly websites that connect with backend databases to show current apartment listings for prospective renters. I also helped develop and manage an agile workflow to delegate tasks and assign code review for the other developers on the team.",
+      "summary": "Working with a team of developers, designers, and account managers to build custom websites for multi-family real estate apartment properties all over the world. My job included collaborating with designers to create responsive websites that connect with backend databases to show current apartment listings for prospective renters. I also helped develop and manage an agile workflow to delegate tasks and assign code review for the other developers on the team.",
       "highlights": [
         "Developed an in-house build-system using composer comprised of a custom WordPress application architecture, custom reusable templates, gulp task runner, and a deploy process. This increased productivity with code reuse and streamlined on-boarding of new team members.",
         "Built interactive maps using Google Maps API to highlight businesses nearby an apartment location.",
