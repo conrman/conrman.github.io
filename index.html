@@ -28,13 +28,6 @@
                   <a class="hide-url-for-print" href="tel:+(817) 798-8935">(817) 798-8935</a>
                 </p>
               </div>
-              <div class="media-object-section middle text-center hide-for-print">
-                <h6>Resume</h6>
-                <div class="button-group">
-                  <button id="printResume" class="button primary" href="javascript:window.print();" aria-role="print" title="Print this page" data-tooltip>Print</button>
-                  <button id="downloadResume" class="button secondary" href="" aria-role="download" title="Download the PDF" data-tooltip>Download</button>
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -206,11 +199,14 @@
             <section id="skills" class="resume-content__section">
               <h3>Skills:</h3>
                 <div class="skills">
+                  <article class="resume-content__section-article">
                     <h4>Project Management</h4>
                     <span class="label">Strategy</span>
                     <span class="label">Organization</span>
                     <span class="label">Workflows</span>
                     <span class="label">Agile</span>
+                  </article>
+                  <article class="resume-content__section-article">
                     <h4>Programming</h4>
                     <span class="label">VCS</span>
                     <span class="label">MVC</span>
@@ -218,11 +214,15 @@
                     <span class="label">CRUD</span>
                     <span class="label">OOP</span>
                     <span class="label">FP</span>
+                  </article>
+                  <article class="resume-content__section-article">
                     <h4>Front End Development</h4>
                     <span class="label">HTML</span>
                     <span class="label">Template engines</span>
                     <span class="label">CSS</span>
                     <span class="label">Javascript</span>
+                  </article>
+                  <article class="resume-content__section-article">
                     <h4>Backend Development</h4>
                     <span class="label">Unix</span>
                     <span class="label">Apache</span>
@@ -231,14 +231,20 @@
                     <span class="label">Vagrant</span>
                     <span class="label">PHP</span>
                     <span class="label">Node</span>
+                  </article>
                 </div>
             </section>
           </div>
         </div>
       </main>
       
-      <!-- 
- -->
+      <aside class="resume-callout callout hide-for-print">
+        <h6>Resume</h6>
+        <div class="button-group">
+        <button id="printResume" class="button primary has-tip top" href="javascript:window.print();" aria-role="print" title="Print this page" data-tooltip>Print</button>
+        <a id="downloadResume" class="button secondary has-tip top" href="/assets/ConnorFreemanResume.pdf" aria-role="download" title="Download the PDF" data-tooltip>Download</a>
+        </div>
+      </aside>
       <footer class="resume-footer row align-center hide-for-print">
         <div class="column medium-8 medium-offset-2 large-6 large-offset-3">
           <h4>Social</h4>
