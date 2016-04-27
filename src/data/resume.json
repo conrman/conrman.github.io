@@ -46,9 +46,9 @@
       "endDate": "Present",
       "summary": "My work has covered a variety of projects and services, including consulting with individuals starting an eCommerce business, to working with internal teams at advertising and design agencies. I excel at bridging the gap between design, development, and business strategy. My understanding of business goals facilitates successful work.",
       "highlights": [
-        "Acquiring new clients via phone/email outreach.",
-        "Setting goals, budget, and timeline in a contract outlining specific project details.",
-        "Collaborating with internal teams at agencies consulting on responsive design, strategy, and development."
+        "Working on national clients such as Icy Hot, Gold Bond and Rolaids.",
+        "Setting goals, budgets, timelines, and maintaining client relationships.",
+        "Collaborating with internal teams at agencies and consulting on responsive design, strategy, and development."
       ],
       "skills": [
         "Project management",
@@ -64,7 +64,8 @@
       "endDate": "April 15, 2015",
       "summary": "I worked with a team of developers, designers, and account managers to build custom websites for multi-family real estate apartment properties all over the world. My job included collaborating with designers to create responsive websites that connect with backend databases to show current apartment listings for prospective renters. I also helped develop and manage an agile workflow to delegate tasks, and assign code review for the other developers on the team.",
       "highlights": [
-        "Developed an in-house build-system using composer comprised of a custom WordPress application architecture, custom reusable templates, gulp task runner, and a deploy process. This increased productivity with code reuse and streamlined on-boarding of new team members.",
+        "Developed an in-house build-system using Composer, comprised of a custom WordPress application, reusable templates, gulp task runner, and deploy process.",
+        "Helped increase productivity with code reuse and streamlined on-boarding of new team members.",
         "Built interactive maps using Google Maps API to highlight businesses nearby an apartment location.",
         "Created interactive floor plans for apartments with pricing details from an availability API."
       ],
@@ -108,9 +109,9 @@
       "endDate": "April 1, 2014",
       "summary": "I worked part-time during school to manage the website and internal services. Part of my job was creating new calendar events for their conferences, I did this by automation testing with Selenium. This dramatically reduced time and cost for the business. It gave me free time to build internal services like a purchase order tracking system.",
       "highlights": [
-        "Selenium",
-        "Microsoft Access",
-        "Drupal"
+        "Managed Drupal website."
+        "Automated testing with Selenium.",
+        "Created custom Microsoft Access application.",
       ]
     }
   ],
@@ -200,18 +201,7 @@
     }
   ],
   "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
   ],
   "references": [
-    {
-      "name": "Marq Sanchez",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
   ]
 }
