@@ -6,7 +6,7 @@
     "email": "connormfreeman@gmail.com",
     "phone": "(817) 798-8935",
     "website": "http://connorfreeman.com",
-    "summary": "Working for the past year with national organizations and individuals as a freelance web developer and consultant, with a track record of on-time and on-budget projects. Looking to work where I can bring immediate value and develop my skill-set further. Preferably with a team that values security, usability, strategy, and finds enjoyment in building a great product.",
+    "summary": "For the past year I’ve worked with national organizations and individuals as a freelance web developer and consultant, with a consistent record of on-time and on-budget projects. Looking to work where I can bring immediate value, preferably with a team that values security, usability, strategy, and finds enjoyment in building a great product.",
     "location": {
       "address": "5120 Whistler Drive",
       "postalCode": "76133",
@@ -44,7 +44,7 @@
       "website": "http://connorfreeman.com",
       "startDate": "April 15, 2015",
       "endDate": "Present",
-      "summary": "My work has covered a variety of projects and services, consulting with individuals starting an eCommerce business to working with internal teams at advertising and design agencies. I excel at bridging the gap between design, development, and business strategy. Understanding of business goals helps translate into the success of my work. ",
+      "summary": "My work has covered a variety of projects and services, including consulting with individuals starting an eCommerce business, to working with internal teams at advertising and design agencies. I excel at bridging the gap between design, development, and business strategy. My understanding of business goals facilitates successful work.",
       "highlights": [
         "Acquiring new clients via phone/email outreach.",
         "Setting goals, budget, and timeline in a contract outlining specific project details.",
@@ -62,11 +62,11 @@
       "website": "http://mixedmediacreations.com",
       "startDate": "April 1, 2014",
       "endDate": "April 15, 2015",
-      "summary": "Working with a team of developers, designers, and account managers to build custom websites for multi-family real estate apartment properties all over the world. My job included collaborating with designers to create responsive websites that connect with backend databases to show current apartment listings for prospective renters. I also helped develop and manage an agile workflow to delegate tasks and assign code review for the other developers on the team.",
+      "summary": "I worked with a team of developers, designers, and account managers to build custom websites for multi-family real estate apartment properties all over the world. My job included collaborating with designers to create responsive websites that connect with backend databases to show current apartment listings for prospective renters. I also helped develop and manage an agile workflow to delegate tasks, and assign code review for the other developers on the team.",
       "highlights": [
         "Developed an in-house build-system using composer comprised of a custom WordPress application architecture, custom reusable templates, gulp task runner, and a deploy process. This increased productivity with code reuse and streamlined on-boarding of new team members.",
         "Built interactive maps using Google Maps API to highlight businesses nearby an apartment location.",
-        "Created interactive floorplans for apartments with pricing details from an availability API."
+        "Created interactive floor plans for apartments with pricing details from an availability API."
       ],
       "skills": [
         "Angular",
@@ -84,7 +84,7 @@
       "website": "http://qsigroup.com",
       "startDate": "May 22, 2011",
       "endDate": "April 1, 2014",
-      "summary": "I began as an intern over the summer of 2011 and learned a lot about web development. I helped manage dozens of applications on both frontend and backend. I was invited to return the following summer as a developer to work on projects of my own.",
+      "summary": "Starting as a summer intern, I helped manage dozens of applications on both frontend and backend. I was invited to return the following summer as a developer to work on projects of my own.",
       "highlights": [
         "Front-end developer for Ruby on Rails application",
         "Developed Facebook store locator application",
