@@ -4,7 +4,7 @@
       <section id="description" class="resume-content__section">
         <h3 class="hide" aria-label="description">Bio</h3>
         <article class="bio">
-          <p>{{ resume.basics.summary }}</p>
+          <p class="lead">{{ resume.basics.summary }}</p>
         </article>
       </section>
       <hr>
@@ -16,7 +16,7 @@
           <article class="resume-content__section-article work">
             <div class="resume-content__section-article__group">
               <!-- Job -->
-              <h5> <a href="{{ this.website }}">{{ this.company }}</a> </h5>
+              <h4> <a href="{{ this.website }}">{{ this.company }}</a> </h4>
               <!-- Title & time -->
               <p>
                 <em>{{ this.position }}</em>
@@ -50,13 +50,37 @@
 
       <hr>
 
+      <!-- Education -->
+      <section id="education" class="resume-content__section">
+        <h3>Education:</h3>
+        {{#if resume.education}}
+          <div class="education">
+            {{#each resume.education}}
+              <article class="resume-content__section-article education">
+                <h4>{{ this.institution }}</h4>
+                <p>
+                  {{ this.studyType }}
+                  &mdash;
+                  {{ this.area }}
+                </p>
+                <h5>Courses:</h5>
+                {{#each this.courses}}
+                  <span class="label">{{ this }}</span>
+                {{/each}}
+              </article>
+            {{/each}}
+          </div>
+        {{/if}}
+      </section>
+      <hr>
+
       <!-- Skills -->
       <section id="skills" class="resume-content__section">
         <h3>Skills:</h3>
         {{#if resume.skills}}
           <div class="skills">
             {{#each resume.skills}}
-              <h5>{{ this.name }}</h5>
+              <h4>{{ this.name }}</h4>
               {{#each this.keywords}}
               <span class="label">{{ this }}</span>
               {{/each}}

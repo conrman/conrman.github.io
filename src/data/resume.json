@@ -6,7 +6,7 @@
     "email": "connormfreeman@gmail.com",
     "phone": "(817) 798-8935",
     "website": "http://connorfreeman.com",
-    "summary": "Working for the past year with national oraganizations and individuals as a freelance web developer and consultant, with a track record of on-time and on-budget projects. Looking to work where I can bring immediate value and develop my skill-set further. Preferably with a team that values security, usability, strategy, and finds enjoyment in building a good product.",
+    "summary": "Working for the past year with national organizations and individuals as a freelance web developer and consultant, with a track record of on-time and on-budget projects. Looking to work where I can bring immediate value and develop my skill-set further. Preferably with a team that values security, usability, strategy, and finds enjoyment in building a great product.",
     "location": {
       "address": "5120 Whistler Drive",
       "postalCode": "76133",
@@ -49,6 +49,11 @@
         "Acquiring new clients via phone/email outreach.",
         "Setting goals, budget, and timeline in a contract outlining specific project details.",
         "Collaborating with internal teams at agencies consulting on responsive design, strategy, and development."
+      ],
+      "skills": [
+        "Project management",
+        "Interpersonal communication",
+        "Negotiation"
       ]
     },
     {
@@ -99,7 +104,7 @@
       "company": "Professional Development Institute",
       "position": "Web Master",
       "website": "http://pdi.org",
-      "startDate": "Febuary 18, 2012",
+      "startDate": "February 18, 2012",
       "endDate": "April 1, 2014",
       "summary": "I worked part-time during school to manage the website and internal services. Part of my job was creating new calendar events for their conferences, I did this by automation testing with Selenium. This dramatically reduced time and cost for the business. It gave me free time to build internal services like a purchase order tracking system.",
       "highlights": [
@@ -113,18 +118,25 @@
     {
       "institution": "University of North Texas",
       "area": "Computer Science",
-      "studyType": "Bachelor",
+      "studyType": "B.S.",
       "startDate": "September 2010",
       "endDate": "May 2014",
       "gpa": "0.0",
       "courses": [
+        "Computing Foundations",
+        "Digital Circuits & Analysis",
+        "Algorithms"
       ]
     },
     {
       "institution": "Udacity",
-      "area": "Javascript",
+      "area": "Programming",
       "studyType": "Online",
+      "startDate": "",
+      "enddate": "",
+      "gpa": "",
       "courses": [
+        "Computer Science",
         "Object Oriented Javascript",
         "JavaScript Patterns"
       ]
@@ -133,30 +145,51 @@
   "skills": [
     {
       "name": "Project Management",
-      "level": "Good",
+      "level": "Expert",
+      "summary": "",
       "keywords": [
         "Strategy",
         "Organization",
+        "Workflows",
         "Agile"
       ]
     },
     {
-      "name": "WordPress Development",
-      "level": "Master",
+      "name": "Programming",
+      "level": "Expert",
+      "summary": "",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "PHP"
+        "VCS",
+        "MVC",
+        "REST",
+        "CRUD",
+        "OOP",
+        "FP"
       ]
     },
     {
-      "name": "Shopify Theme Development",
-      "level": "Good",
+      "name": "Front End Development",
+      "level": "Expert",
+      "summary": "",
       "keywords": [
-        "Liquid Templates",
-        "Javascript",
-        "AJAX"
+        "HTML",
+        "Template engines",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Average",
+      "summary": "",
+      "keywords": [
+        "Unix",
+        "Apache",
+        "nginx",
+        "Ansible",
+        "Vagrant",
+        "PHP",
+        "Node"
       ]
     }
   ],
